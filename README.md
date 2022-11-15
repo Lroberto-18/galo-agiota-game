@@ -1,10 +1,10 @@
-#README
-JOGO GALO AGIOTA
-Disciplina: Laboratório de programação
+#JOGO GALO AGIOTA
+
+Disciplina: Laboratório de programação <br>
 Instituição: Universidade Federal do Cariri
 
 
-Participantes:
+Desenvolvedores: <br>
 ALLAN PEREIRA FENELON                   
 ELIAS OSBONY TENORIO DE LIMA       
 FRANCISCO JUNIOR PEIXOTO DANTAS     
