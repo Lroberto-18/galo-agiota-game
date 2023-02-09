@@ -1,4 +1,5 @@
-from acoes.cabecalho import * #CHAMANDO PACOTES NECESSÁRIOS
+from acoes.cabecalho import * 
+#CHAMANDO PACOTES NECESSÁRIOS
 
 pygame.init()
 
